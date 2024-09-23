@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "email": "polina@gmail.com",
+      "password": "$2a$10$FQZCaKZ4WtFaF5rXGkbVEO.MFQ6gxGGE0X/oMpPlqfbTZy37yfQlm",
+      "name": "polina",
+      "id": 1
+    },
+    {
+      "email": "kolya@gmail.com",
+      "password": "$2a$10$2tkK94ddsgVs3DbgG8P7IOgmSE7Yh45H1HuC0pTYXR1IWQszPmJoS",
+      "name": "kolya",
+      "id": 2
+    },
+    {
+      "email": "mulya@gmail.com",
+      "password": "$2a$10$76v3qRvZ26xXv3RpgqkPS.4w2qI/L8VgfXAfIXKgvkVJN44LhFBzi",
+      "name": "Mulya",
+      "id": 3
+    },
+    {
+      "email": "oleh@gmail.com",
+      "password": "$2a$10$546BUaYYQcOQgi94EZ5wsOOIf7sZsIPQfm1DKwY4pxKBx/Gcpsdzi",
+      "name": "Oleh",
+      "id": 4
+    }
+  ]
+}

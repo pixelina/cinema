@@ -1,0 +1,49 @@
+@import './variables';
+@import '../fonts/fonts';
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+    font-weight: 400;
+    font-size: 14px;
+    color: black;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+section {
+    width: 100%;
+}
+
+a, a:hover, a:focus {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul {
+    padding: 0;
+    margin: 0;
+    font-family: "Josefin Sans";
+}
+
+ul {
+    list-style-type: none;
+}
+
+img, button, a {
+    display: block;
+    background: none;
+}
+
+address {
+    font-style: normal;
+}
+
+input {
+    display: block;
+}
